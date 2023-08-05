@@ -1,0 +1,16 @@
+{
+  "name": "re-start",
+  "version": "1.0.0",
+  "description": "",
+  "main": "jquery-3.5.1.min.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^3.0.1"
+  }
+}

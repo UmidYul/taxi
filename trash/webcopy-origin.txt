@@ -1,0 +1,164 @@
+Uri: https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor:02c3176ce20a35c8d2fa30cd0b0664a3950b0940a127f834d68ce17c219c2514&width=770&height=450&lang=ru_RU&scroll=true
+File Name: C:\Users\dude\Downloads\арендатакси.рус\services\constructor\1.0\js\index-2.htm
+Content Type: application/javascript
+
+Uri: https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor:0a18e1d52cdf2e28a63cabdf97e5a4a838342487ed1765934ac285e8529a6dc1&width=770&height=450&lang=ru_RU&scroll=true
+File Name: C:\Users\dude\Downloads\арендатакси.рус\services\constructor\1.0\js\index-5.htm
+Content Type: application/javascript
+
+Uri: https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor:29abcaaf555dd269e726efb8023daff1029650c3b4c777c985f9d631ae5e83c8&width=770&height=450&lang=ru_RU&scroll=true
+File Name: C:\Users\dude\Downloads\арендатакси.рус\services\constructor\1.0\js\index-1.htm
+Content Type: application/javascript
+
+Uri: https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor:45b02febe00c074a02474c1b4dd7f9fa03c2e6c0bcb42f555fdd16bdb6dd3561&width=770&height=450&lang=ru_RU&scroll=true
+File Name: C:\Users\dude\Downloads\арендатакси.рус\services\constructor\1.0\js\index-6.htm
+Content Type: application/javascript
+
+Uri: https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor:692769a2158855d9947ce201a637936a1ce028a009d25d0c8af668dbd5943be1&width=770&height=450&lang=ru_RU&scroll=true
+File Name: C:\Users\dude\Downloads\арендатакси.рус\services\constructor\1.0\js\index-4.htm
+Content Type: application/javascript
+
+Uri: https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor:cbd0a44d15eef06c78948030de3108fd0f759cf51c6b0e6ade8c450232af4766&width=770&height=450&lang=ru_RU&scroll=true
+File Name: C:\Users\dude\Downloads\арендатакси.рус\services\constructor\1.0\js\index-3.htm
+Content Type: application/javascript
+
+Uri: https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor:d08f8371a6a94e46d5ffa9e036764b0fd503c6f5dddb0168e1a92f3a1a089fa2&width=770&height=450&lang=ru_RU&scroll=true
+File Name: C:\Users\dude\Downloads\арендатакси.рус\services\constructor\1.0\js\index.htm
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js
+File Name: C:\Users\dude\Downloads\арендатакси.рус\npm\popper.js@1.16.0\dist\umd\popper.min.js
+Content Type: application/javascript
+
+Uri: https://code.jquery.com/jquery-3.5.1.min.js
+File Name: C:\Users\dude\Downloads\арендатакси.рус\jquery-3.5.1.min.js
+Content Type: application/javascript
+
+Uri: https://code.jquery.com/jquery-3.5.1.slim.min.js
+File Name: C:\Users\dude\Downloads\арендатакси.рус\jquery-3.5.1.slim.min.js
+Content Type: application/javascript
+
+Uri: https://mc.yandex.ru/watch/65224300
+File Name: C:\Users\dude\Downloads\арендатакси.рус\watch\65224300
+Content Type: image/gif
+
+Uri: https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css
+File Name: C:\Users\dude\Downloads\арендатакси.рус\bootstrap\4.5.0\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js
+File Name: C:\Users\dude\Downloads\арендатакси.рус\bootstrap\4.5.0\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://vk.com/rtrg?p=VK-RTRG-502645-4uDE6
+File Name: C:\Users\dude\Downloads\арендатакси.рус\rtrg
+Content Type: image/gif
+
+Uri: https://www.googletagmanager.com/gtag/js?id=UA-188478004-1
+File Name: C:\Users\dude\Downloads\арендатакси.рус\gtag\js
+Content Type: application/javascript
+
+Uri: https://арендатакси.рус/moskva/
+File Name: C:\Users\dude\Downloads\арендатакси.рус\moskva\index.htm
+Content Type: text/html
+
+Uri: https://арендатакси.рус/moskva/about/
+File Name: C:\Users\dude\Downloads\арендатакси.рус\moskva\about\index.htm
+Content Type: text/html
+
+Uri: https://арендатакси.рус/moskva/contacts/
+File Name: C:\Users\dude\Downloads\арендатакси.рус\moskva\contacts\index.htm
+Content Type: text/html
+
+Uri: https://арендатакси.рус/moskva/contacts/static/oferta.pdf
+File Name: C:\Users\dude\Downloads\арендатакси.рус\moskva\contacts\static\oferta.pdf.html
+Content Type: text/html
+
+Uri: https://арендатакси.рус/pictures/car/2023/атлас_про_S3PwzOS.png
+File Name: C:\Users\dude\Downloads\арендатакси.рус\pictures\car\2023\атлас_про_S3PwzOS.png
+Content Type: image/png
+
+Uri: https://арендатакси.рус/pictures/car/2023/джулион.png
+File Name: C:\Users\dude\Downloads\арендатакси.рус\pictures\car\2023\джулион.png
+Content Type: image/png
+
+Uri: https://арендатакси.рус/pictures/car/2023/камри.png
+File Name: C:\Users\dude\Downloads\арендатакси.рус\pictures\car\2023\камри.png
+Content Type: image/png
+
+Uri: https://арендатакси.рус/pictures/car/2023/кулрей.png
+File Name: C:\Users\dude\Downloads\арендатакси.рус\pictures\car\2023\кулрей.png
+Content Type: image/png
+
+Uri: https://арендатакси.рус/pictures/car/2023/октавия.png
+File Name: C:\Users\dude\Downloads\арендатакси.рус\pictures\car\2023\октавия.png
+Content Type: image/png
+
+Uri: https://арендатакси.рус/pictures/car/2023/октавия_A3yNMYW.png
+File Name: C:\Users\dude\Downloads\арендатакси.рус\pictures\car\2023\октавия_A3yNMYW.png
+Content Type: image/png
+
+Uri: https://арендатакси.рус/pictures/car/2023/оптима.png
+File Name: C:\Users\dude\Downloads\арендатакси.рус\pictures\car\2023\оптима.png
+Content Type: image/png
+
+Uri: https://арендатакси.рус/pictures/car/2023/сид.png
+File Name: C:\Users\dude\Downloads\арендатакси.рус\pictures\car\2023\сид.png
+Content Type: image/png
+
+Uri: https://арендатакси.рус/pictures/car/2023/солярис_1.png
+File Name: C:\Users\dude\Downloads\арендатакси.рус\pictures\car\2023\солярис_1.png
+Content Type: image/png
+
+Uri: https://арендатакси.рус/pictures/car/2023/соната.png
+File Name: C:\Users\dude\Downloads\арендатакси.рус\pictures\car\2023\соната.png
+Content Type: image/png
+
+Uri: https://арендатакси.рус/pictures/car/2023/тиго_7_про.png
+File Name: C:\Users\dude\Downloads\арендатакси.рус\pictures\car\2023\тиго_7_про.png
+Content Type: image/png
+
+Uri: https://арендатакси.рус/pictures/car/2023/черри_4.png
+File Name: C:\Users\dude\Downloads\арендатакси.рус\pictures\car\2023\черри_4.png
+Content Type: image/png
+
+Uri: https://арендатакси.рус/pictures/car/2023/f7.png
+File Name: C:\Users\dude\Downloads\арендатакси.рус\pictures\car\2023\f7.png
+Content Type: image/png
+
+Uri: https://арендатакси.рус/pictures/car/2023/k5.png
+File Name: C:\Users\dude\Downloads\арендатакси.рус\pictures\car\2023\k5.png
+Content Type: image/png
+
+Uri: https://арендатакси.рус/pictures/car/2023/polo.png
+File Name: C:\Users\dude\Downloads\арендатакси.рус\pictures\car\2023\polo.png
+Content Type: image/png
+
+Uri: https://арендатакси.рус/static/favicon/favicon.ico
+File Name: C:\Users\dude\Downloads\арендатакси.рус\static\favicon\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://арендатакси.рус/static/oferta.pdf
+File Name: C:\Users\dude\Downloads\арендатакси.рус\static\oferta.pdf
+Content Type: application/pdf
+
+Uri: https://арендатакси.рус/static/styles/css/style.css
+File Name: C:\Users\dude\Downloads\арендатакси.рус\static\styles\css\style-1.css
+Content Type: text/css
+
+Uri: https://арендатакси.рус/static/styles/css/style.css?v=1.52
+File Name: C:\Users\dude\Downloads\арендатакси.рус\static\styles\css\style.css
+Content Type: text/css
+
+Uri: https://арендатакси.рус/static/styles/js/jquery.mask.js
+File Name: C:\Users\dude\Downloads\арендатакси.рус\static\styles\js\jquery.mask.js
+Content Type: application/javascript
+
+Uri: https://арендатакси.рус/static/styles/js/style.js
+File Name: C:\Users\dude\Downloads\арендатакси.рус\static\styles\js\style-1.js
+Content Type: application/javascript
+
+Uri: https://арендатакси.рус/static/styles/js/style.js?v=1.52
+File Name: C:\Users\dude\Downloads\арендатакси.рус\static\styles\js\style.js
+Content Type: application/javascript
+
