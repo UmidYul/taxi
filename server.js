@@ -7,7 +7,7 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
 const bot = new Telegraf("5648239366:AAE-VuCYZDTQiWawrFGS6JBNujvyk0f2HfQ")
 const app = express()
-const port = 4000
+const port = 3000
 app.use(bodyParser.urlencoded({ extended: false }))
 app.use(bodyParser.json())
 app.use(express.static(__dirname + "/public/"))
@@ -16,14 +16,8 @@ app.use(express.static(__dirname + "/public/"))
 //     res.sendFile(__dirname + "/views/index.html")
 // })
 app.get('/', function (req, res) {
-    res.send(path.join(__dirname, './views', 'index.html'));
-
-    // const fileName = __dirname + "/views/inde.html";
-    // res.sendFile(fileName, function (err) {
-    //     if (err) {
-    //         console.error(err)
-    //     }
-    // });
+    var fullUrl = req.protocol + '://' + req.get('host') + req.originalUrl
+    res.sendFile(__dirname + "/views/index.html")
 });
 app.get("/about", (req, res) => {
     res.sendFile(__dirname + "/views/about.html")
