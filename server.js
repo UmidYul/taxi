@@ -16,7 +16,8 @@ app.use(express.static(__dirname + "/public/"))
 //     res.sendFile(__dirname + "/views/index.html")
 // })
 app.get('/', function (req, res) {
-    res.sendFile(path.join(__dirname, './views', 'index.html'));
+    res.send(path.join(__dirname, './views', 'index.html'));
+
     // const fileName = __dirname + "/views/inde.html";
     // res.sendFile(fileName, function (err) {
     //     if (err) {
