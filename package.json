@@ -1,12 +1,16 @@
 {
-  "name": "re-start",
+  "name": "taxi",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
   "scripts": {
+    "test": "nodemon server.js",
     "start": "node server.js"
   },
-  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/UmidYul/taxi.git"
+  },
   "author": "",
   "license": "ISC",
   "dependencies": {
