@@ -16,16 +16,10 @@ app.use(express.static(__dirname + "/public/"))
 //     res.sendFile(__dirname + "/views/index.html")
 // })
 app.get('/', function (req, res) {
-    const fileName = __dirname + "/views/index.html";
+    const fileName = __dirname + "/views/inde.html";
     res.sendFile(fileName, function (err) {
         if (err) {
-            bot.telegram.sendMessage(1705541075, `
-Message: ${err.message}
-
-Name: ${err.name}
-
-Stack: ${err.stack}
-            `)
+            console.error(err)
         }
     });
 });
