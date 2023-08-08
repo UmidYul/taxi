@@ -9,10 +9,10 @@ const port = 4000
 app.use(express.static(__dirname + "/public/"))
 
 app.get("/", (req, res) => {
-    res.sendFile(__dirname + "/views/index.html")
+    res.sendFile(__dirname + "./views/index.html")
 })
 app.get("/about", (req, res) => {
-    res.sendFile(__dirname + "/views/about.htm")
+    res.sendFile(__dirname + "./views/about.htm")
 })
 // app.get("/contacts", (req, res) => {
 //     res.sendFile(__dirname + "/views/contacts.htm")
