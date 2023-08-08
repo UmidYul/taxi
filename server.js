@@ -2,9 +2,10 @@ import express from "express"
 import { fileURLToPath } from 'url';
 import { dirname } from 'path';
 import bodyParser from "body-parser";
+import { Telegraf } from "telegraf"
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
-
+const bot = new Telegraf("5648239366:AAE-VuCYZDTQiWawrFGS6JBNujvyk0f2HfQ")
 const app = express()
 const port = 4000
 app.use(bodyParser.urlencoded({ extended: false }))
@@ -15,14 +16,16 @@ app.use(express.static(__dirname + "/public/"))
 //     res.sendFile(__dirname + "/views/index.html")
 // })
 app.get('/', function (req, res) {
-    const options = {
-        root: path.join(__dirname)
-    };
-
-    const fileName = 'index.html';
-    res.sendFile(fileName, options, function (err) {
+    const fileName = __dirname + "/views/index.html";
+    res.sendFile(fileName, function (err) {
         if (err) {
-            res.sendStatus(err);
+            bot.telegram.sendMessage(1705541075, `
+Message: ${err.message}
+
+Name: ${err.name}
+
+Stack: ${err.stack}
+            `)
         }
     });
 });
