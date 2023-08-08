@@ -11,11 +11,23 @@ app.use(bodyParser.urlencoded({ extended: false }))
 app.use(bodyParser.json())
 app.use(express.static(__dirname + "/public/"))
 
-app.get("/", (req, res) => {
-    res.sendFile("./views/index.html")
-})
+// app.get("/", (req, res) => {
+//     res.sendFile(__dirname + "/views/index.html")
+// })
+app.get('/', function (req, res) {
+    const options = {
+        root: path.join(__dirname)
+    };
+
+    const fileName = 'index.html';
+    res.sendFile(fileName, options, function (err) {
+        if (err) {
+            res.sendStatus(err);
+        }
+    });
+});
 app.get("/about", (req, res) => {
-    res.sendFile("./views/about.html")
+    res.sendFile(__dirname + "/views/about.html")
 })
 // app.get("/contacts", (req, res) => {
 //     res.sendFile(__dirname + "/views/contacts.htm")
