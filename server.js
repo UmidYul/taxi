@@ -16,12 +16,13 @@ app.use(express.static(__dirname + "/public/"))
 //     res.sendFile(__dirname + "/views/index.html")
 // })
 app.get('/', function (req, res) {
-    const fileName = __dirname + "/views/inde.html";
-    res.sendFile(fileName, function (err) {
-        if (err) {
-            console.error(err)
-        }
-    });
+    res.sendFile(path.join(__dirname, './views', 'index1.html'));
+    // const fileName = __dirname + "/views/inde.html";
+    // res.sendFile(fileName, function (err) {
+    //     if (err) {
+    //         console.error(err)
+    //     }
+    // });
 });
 app.get("/about", (req, res) => {
     res.sendFile(__dirname + "/views/about.html")
