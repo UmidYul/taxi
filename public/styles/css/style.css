@@ -1531,9 +1531,9 @@ strong {
 .footer-logo {
   display: block;
 }
-.footer-logo svg {
-  width: 300px;
-  height: 45px;
+.footer-logo img {
+  width: 200px;
+  height: 100px;
 }
 @media only screen and (max-width: 1080px) {
   .footer-logo svg {
