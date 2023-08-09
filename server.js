@@ -12,11 +12,7 @@ app.use(bodyParser.urlencoded({ extended: false }))
 app.use(bodyParser.json())
 app.use(express.static(__dirname + "/public/"))
 
-// app.get("/", (req, res) => {
-//     res.sendFile(__dirname + "/views/index.html")
-// })
 app.get('/', function (req, res) {
-    var fullUrl = req.protocol + '://' + req.get('host') + req.originalUrl
     res.sendFile(__dirname + "/views/index.html")
 });
 app.get("/about", (req, res) => {
